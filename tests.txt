@@ -1,0 +1,92 @@
+[32m[RECEPTION][0m: The reception open.
+[35m[CLIENT][0m: [32m[RECEPTION][0m: Order sent.
+[33m[KITCHEN {1}][0m: Open kitchen.
+[33m[KITCHEN {1}][0m: Order arrived
+[32m[RECEPTION][0m: Order sent.
+[33m[KITCHEN {1}][0m: Order arrived
+[32m[RECEPTION][0m: Order sent.
+[33m[KITCHEN {1}][0m: Order arrived
+[35m[CLIENT][0m: [32m[RECEPTION][0m: Status of the plazza.
+[36m[KITCHENS][0m: Status of all kitchen :
+
+	[33m[KITCHEN {1}][0m: state
+		Cooks [0]: Cooking -> Pizza = Type(Regina), Size(XL).
+		Cooks [1]: Cooking -> Pizza = Type(Regina), Size(XL).
+		[Stock] ->
+			Doe: 3
+			Tomato: 3
+			Gruyere: 3
+			Ham: 3
+			Mushrooms: 3
+			Steack: 5
+			EggPlant: 5
+			GoatChees: 5
+			ChiefLove: 5
+[35m[CLIENT][0m: [32m[RECEPTION][0m: Status of the plazza.
+[36m[KITCHENS][0m: Status of all kitchen :
+
+	[33m[KITCHEN {1}][0m: state
+		Cooks [0]: Do nothing
+		Cooks [1]: Cooking -> Pizza = Type(Regina), Size(XL).
+		[Stock] ->
+			Doe: 2
+			Tomato: 2
+			Gruyere: 2
+			Ham: 2
+			Mushrooms: 2
+			Steack: 5
+			EggPlant: 5
+			GoatChees: 5
+			ChiefLove: 5
+[35m[CLIENT][0m: [32m[RECEPTION][0m: Status of the plazza.
+[36m[KITCHENS][0m: Status of all kitchen :
+
+	[33m[KITCHEN {1}][0m: state
+		Cooks [0]: Do nothing
+		Cooks [1]: Cooking -> Pizza = Type(Regina), Size(XL).
+		[Stock] ->
+			Doe: 2
+			Tomato: 2
+			Gruyere: 2
+			Ham: 2
+			Mushrooms: 2
+			Steack: 5
+			EggPlant: 5
+			GoatChees: 5
+			ChiefLove: 5
+[35m[CLIENT][0m: [32m[RECEPTION][0m: Status of the plazza.
+[36m[KITCHENS][0m: Status of all kitchen :
+
+	[33m[KITCHEN {1}][0m: state
+		Cooks [0]: Do nothing
+		Cooks [1]: Cooking -> Pizza = Type(Regina), Size(XL).
+		[Stock] ->
+			Doe: 2
+			Tomato: 2
+			Gruyere: 2
+			Ham: 2
+			Mushrooms: 2
+			Steack: 5
+			EggPlant: 5
+			GoatChees: 5
+			ChiefLove: 5
+[35m[CLIENT][0m: [32m[RECEPTION][0m: Status of the plazza.
+[36m[KITCHENS][0m: Status of all kitchen :
+
+	[33m[KITCHEN {1}][0m: state
+		Cooks [0]: Do nothing
+		Cooks [1]: Do nothing
+		[Stock] ->
+			Doe: 2
+			Tomato: 2
+			Gruyere: 2
+			Ham: 2
+			Mushrooms: 2
+			Steack: 5
+			EggPlant: 5
+			GoatChees: 5
+			ChiefLove: 5
+[35m[CLIENT][0m: [32m[RECEPTION][0m: The reception close.
+[35m[CLIENT][0m: [33m[KITCHEN {1}][0m: Close kitchen.
+STOCK REGNERATE
+THREAD DELETE2
